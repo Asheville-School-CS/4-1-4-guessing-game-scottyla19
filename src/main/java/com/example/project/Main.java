@@ -29,7 +29,6 @@ public class Main
             }
         }
         System.out.println("You got it!");
-
         // Ask the user to guess a number from 0 to 100
         // Get the first guess using scan.nextInt();
 
